@@ -1,0 +1,57 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	background-color: rgb(168, 66, 100);
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Poppins', sans-serif;
+}
+
+main {
+	background-color: #C671CE;
+}
+
+.lead {
+	font-family: 'IM FELL DM Pica', serif;
+}
+
+p {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h2 {
+	text-align: center;
+}
+
+header {
+	background-color: rgb(131, 12, 12);
+}
+
+button-color {
+	color: #C671CE;
+}
+
+body {
+	position: relative; 
+}
+#Hemsida {
+	padding-top:50px;
+	height:500px;color:
+	rgb(0, 0, 0); 
+	background-color: #D2D3D7;}
+
+#Produkter {
+	padding-top:50px;
+	height:500px;
+	color: 	#fff; 
+	background-color: #D2D3D7;}
+
+#Målgrupp {
+	padding-top:50px;
+	height:500px;
+	color: rgb(65, 152, 158);
+	background-color: #D2D3D7;
+}
