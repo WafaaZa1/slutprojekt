@@ -26,32 +26,17 @@ h2 {
 	text-align: center;
 }
 
-header {
-	background-color: rgb(131, 12, 12);
-}
-
-button-color {
-	color: #C671CE;
-}
-
 body {
-	position: relative; 
+	position: relative;
+	background-color: rgb(225, 158, 231); 
 }
-#Hemsida {
-	padding-top:50px;
-	height:500px;color:
-	rgb(0, 0, 0); 
-	background-color: #D2D3D7;}
 
-#Produkter {
-	padding-top:50px;
-	height:500px;
-	color: 	#fff; 
-	background-color: #D2D3D7;}
+section {
+	height: 50vh;
+	padding-top: 20px;
+	width: 50%;
+  }
 
-#Målgrupp {
-	padding-top:50px;
-	height:500px;
-	color: rgb(65, 152, 158);
-	background-color: #D2D3D7;
+.center {
+	text-align: center;
 }
